@@ -74,6 +74,7 @@ python app.py
 
 🔍 Sample Output
 The model predicts whether a transaction is:
+
 •	✅ Legitimate
 
 •	❌ Fraudulent
