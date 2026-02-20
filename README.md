@@ -1,4 +1,5 @@
 💳 Online Payments Fraud Detection using Machine Learning
+
 📌 Project Overview
 Online payment fraud is one of the major challenges in digital transactions. This project aims to detect fraudulent online payment transactions using Machine Learning techniques. By analyzing transaction patterns and customer behavior, the system classifies transactions as fraudulent or legitimate.
 
@@ -30,19 +31,29 @@ This project uses supervised machine learning algorithms to:
 7.	Model Deployment
 
 📂 Project Structure
+
 Online-Payments-Fraud-Detection/
+
 │
 ├── data/
+
 │   └── transactions.csv
+
 │
 ├── notebooks/
+
 │   └── fraud_detection.ipynb
+
 │
 ├── models/
+
 │   └── model.pkl
+
 │
 ├── app.py
+
 ├── requirements.txt
+
 └── README.md
 
 📈 Model Evaluation Metrics
@@ -64,6 +75,7 @@ python app.py
 🔍 Sample Output
 The model predicts whether a transaction is:
 •	✅ Legitimate
+
 •	❌ Fraudulent
 
 📌 Future Improvements
